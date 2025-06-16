@@ -37,25 +37,27 @@ Laravel y React.
 
 <div style="background: #161B22; padding: 5px 20px; border-radius: 10px; margin: 10px 0;" align="center">
     <p style="font-weight: bold; font-size: 1.2rem">🎨 Frontend & Estilos 🎨</p>
-    <div style="display: inline-block; margin: 10px;">
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
-      <p>HTML5</p>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
-      <p>CSS3</p>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"/>
-      <p>SCSS</p>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
-      <p>Tailwind</p>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img height="38" src="https://skillicons.dev/icons?i=bootstrap"/>
-      <p>Bootstrap</p>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; justify-items: center; align-items: start;">
+        <div style="display: inline-block; margin: 10px;">
+          <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+          <p>HTML5</p>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+          <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+          <p>CSS3</p>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+          <img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"/>
+          <p>SCSS</p>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+          <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
+          <p>Tailwind</p>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+          <img height="38" src="https://skillicons.dev/icons?i=bootstrap"/>
+          <p>Bootstrap</p>
+        </div>
     </div>
 </div>
 
