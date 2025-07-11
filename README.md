@@ -51,7 +51,7 @@ principal. Actualmente trabajo fuertemente con Laravel y React.
 
 ## 🌱 Aprendiendo
 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"><br>Python | <img height="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png"><br>Kubernetes | <img height="50" src="https://skillicons.dev/icons?i=nestjs"><br>NestJS | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"><br>FastAPI | <img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png"><br>Flutter |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"><br>Python | <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kubernetes/kubernetes-plain.svg"><br>Kubernetes | <img height="50" src="https://skillicons.dev/icons?i=nestjs"><br>NestJS | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"><br>FastAPI | <img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png"><br>Flutter |
 |:-:|:-:|:-:|:-:|:-:|
 
 
